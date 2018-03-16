@@ -7,8 +7,6 @@ import java.awt.Image;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 
-
-//TODO: Add streak counter in top left
 public class Tennis extends Applet implements Runnable, KeyListener{
 	
 	private static final long serialVersionUID = 1L;
